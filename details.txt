@@ -1,0 +1,2 @@
+# Quick Thoughts
+Consolidate multiple configuration files into one
